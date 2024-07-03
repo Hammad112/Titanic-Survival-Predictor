@@ -2,6 +2,9 @@
 
 This repository contains the code and documentation for my participation in the Titanic Kaggle Competition. The goal is to predict the survival of passengers on the Titanic based on various features such as age, gender, class, etc.
 
+![sap](https://github.com/Hammad112/Titanic-Survival-Predictor/assets/95902997/3056f73e-d2db-4937-89b7-9afe7a341601)
+
+![asasas](https://github.com/Hammad112/Titanic-Survival-Predictor/assets/95902997/59df88ef-a395-4903-bb02-601d39f7dc6d)
 
 ## Usage
 
